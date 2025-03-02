@@ -1,11 +1,12 @@
 # 🗳 **Indian Election Analysis Dashboard Using Power BI**  
 
-## 📌 **Project Overview**  
+## 📌 **Project Overview** 
 Elections are a crucial aspect of democracy, and analyzing election data helps in understanding **voting trends, party performance, seat distribution, and voter behavior**. This project uses **Excel for data management** and **Power BI for visualization** to extract meaningful insights from the **Indian General Elections (2014, 2019, and 2024)**.  
 
 The dashboard presents **seat counts, vote shares, and constituency-level statistics** for major political parties, including **Bharatiya Janata Party (BJP) and Indian National Congress (INC)**.  
 
 [📂 **Dataset Link**](https://github.com/inarenpithani/indian-election-analysis-dashboard/tree/main/Datasets)  
+
 ---
 
 ## 🛠 **Technology Stack**  
